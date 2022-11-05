@@ -13,6 +13,7 @@ a {
 
 * {
   box-sizing: border-box;
+  text-align: center;
 }
 
 @media (prefers-color-scheme: dark) {
