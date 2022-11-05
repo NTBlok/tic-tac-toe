@@ -17,7 +17,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          <Link href="/tictactoe">Click Here Play</Link>
+          <Link href="/tictactoe">Click Here to Play</Link>
         </p>
 
       </main>
