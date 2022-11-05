@@ -1,3 +1,12 @@
+## Tic Tac Toe (NxN)
+
+To run this app, use `yarn dev` to start server then visit the landing page at <http://localhost:3000>.  Click the link on landing page to get to the app, located at <http://localhost:3000/tictactoe>.  The app should look like the following screenshot:
+
+<img src="./screenshots/tictactoe-app.png" alt="tictactoe-app.png">
+
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
